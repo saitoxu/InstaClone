@@ -2,4 +2,4 @@
 
 Instagram Clone built with React Native.
 
-![screenshot](./screenshot.gif)
+<img src="./screenshot.gif" alt="screenshot" style="margin-top: 20px;">
