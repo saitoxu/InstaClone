@@ -33,7 +33,7 @@ const CameraButton = () => (
 
 const SendButton = () => (
   <TouchableOpacity
-    style={[styles.button, { marginRight: -5, marginTop: 2 }]}
+    style={[styles.button, { marginRight: -5, marginTop: 6 }]}
     onPress={() => console.log('pressed me!')}
   >
     <View style={styles.button}>

@@ -62,7 +62,7 @@ export default class HomeScreen extends Component {
                 source={{ uri: item.avatarUrl }}
               />
               <Text style={{ fontWeight: 'bold', height: 60, lineHeight: 60, flex: 1 }}>{item.username}</Text>
-              <Ionicons name="ios-more" size={30} color="black" style={{ lineHeight: 60, marginRight: 12 }} />
+              <Ionicons name="ios-more" size={30} color="black" style={{ lineHeight: 60, marginRight: 15 }} />
             </View>
             <AvView type={item.type} source={item.source} />
             <View style={{ height: 54, backgroundColor: 'white', flexDirection: 'row' }}>
