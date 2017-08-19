@@ -9,43 +9,43 @@ const data = [{
   username: 'james',
   type: 'video',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/videos/drive.mov',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/856925656935956481/u6p22VHP_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=1005'
 }, {
   key: 2,
-  username: 'zeldman',
+  username: 'jennifer',
   type: 'image',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/images/baking.jpg',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/843519123711803393/pyYe9LFq_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=1027'
 }, {
   key: 3,
-  username: 'sauro',
+  username: 'cathy',
   type: 'video',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/videos/sky.mov',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/872957497086291969/1bpxCxsq_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=996'
 }, {
   key: 4,
   username: 'zack',
   type: 'image',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/images/landscape.jpg',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/378800000298602869/7043dd1b121f1a9fa077caa6961fccc1_400x400.jpeg'
+  avatarUrl: 'https://unsplash.it/100?image=856'
 }, {
   key: 5,
-  username: 'ken',
+  username: 'luke',
   type: 'image',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/images/snow.jpg',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/793324507951828994/oOIaRree_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=669'
 }, {
   key: 6,
-  username: 'ken',
+  username: 'anna',
   type: 'video',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/videos/garden.mov',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/793324507951828994/oOIaRree_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=823'
 }, {
   key: 7,
   username: 'ken',
   type: 'image',
   source: 'https://github.com/saitoxu/InstaClone/raw/master/contents/images/town.jpg',
-  avatarUrl: 'https://pbs.twimg.com/profile_images/793324507951828994/oOIaRree_400x400.jpg'
+  avatarUrl: 'https://unsplash.it/100?image=550'
 }]
 
 export default class HomeScreen extends Component {
