@@ -56,7 +56,7 @@ export default class App {
     });
   }
 
-// start the app
+  // start the app
   startApp() {
     Navigation.startTabBasedApp({
       tabs: [{

@@ -7,9 +7,9 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"react": "16.0.0-alpha.12",
-		"react-native": "0.47.1",
-		"react-native-navigation": "^1.1.205",
+		"react": "16.0.0",
+		"react-native": "0.50.3",
+		"react-native-navigation": "^1.1.273",
 		"react-native-vector-icons": "^4.3.0",
 		"react-native-video": "^2.0.0"
 	},
