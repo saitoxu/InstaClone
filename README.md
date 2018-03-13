@@ -14,3 +14,7 @@ $ cd InstaClone
 $ yarn install
 $ react-native run-ios
 ```
+
+## License
+
+MIT
